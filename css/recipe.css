@@ -1,0 +1,22 @@
+img {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #f6f6c9;
+}
+
+li {
+  font-style: italic;
+  color: #bad1c2;
+}
+li p {
+  font-style: normal;
+  color: aliceblue;
+}
+
+p {
+  color: aliceblue;
+}
